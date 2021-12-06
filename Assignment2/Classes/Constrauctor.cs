@@ -1,9 +1,6 @@
 namespace Assignment2
 {
     class Cricket {
-        int num;
-        string name;
-
         // this would be invoked while the
         // object of that class created.
         public Cricket()

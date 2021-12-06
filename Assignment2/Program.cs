@@ -10,17 +10,17 @@ namespace Assignment2{
 
             //Getting all characters from the string...
             for(int i = 0; i < TotalWords; i++){
-                Console.WriteLine(charecters[i]);
+                Console.Write(charecters[i] + " ");
             }
 
             //Constractor
             Cricket playerInfo = new Cricket();
 
             //Single Inheritance
-            /*Dog.eat();
+            Dog.eat();
             Dog.bark();
 
-            //Multiple Inheritance
+             //Multiple Inheritance
             BabyBirds.feed();
             BabyBirds.fly();
             BabyBirds.flyWithMom();
@@ -40,7 +40,7 @@ namespace Assignment2{
             Shape sh = new Square(4);
             // calling the method
             double result = sh.area();
-            Console.Write("{0}", result);*/
+            Console.Write("{0}", result);
 
             //Polymorphism
             int number1 = 10, number2 = 20, number3 = 30;

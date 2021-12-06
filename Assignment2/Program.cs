@@ -4,7 +4,7 @@ namespace Assignment2{
     public static class Program{
         public static void Main(){
             //using all properties from properties class...
-            string[] charecters = Properties.words;
+            /*string[] charecters = Properties.words;
             int TotalWords = Properties.GetValue(charecters.Length);
             Console.WriteLine("Total Charecters in Array : " + TotalWords);
 
@@ -37,7 +37,15 @@ namespace Assignment2{
             Shape sh = new Square(4);
             // calling the method
             double result = sh.area();
-            Console.Write("{0}", result);
+            Console.Write("{0}", result);*/
+
+            //Polymorphism
+            int number1 = 10, number2 = 20, number3 = 30;
+            CompileTime polymorphism = new CompileTime();
+
+            //Static or Compile Time Polymorphism
+            Console.WriteLine(polymorphism.Add(number1, number2));
+            Console.WriteLine(polymorphism.Add(number1, number2, number3));
         }
     }
 }

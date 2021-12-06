@@ -31,6 +31,13 @@ namespace Assignment2{
 
             BabyPanda2 babyPanda2 = new BabyPanda2();
             babyPanda2.sleeping();
+
+            // creating reference of Shape class
+            // which refer to Square class instance
+            Shape sh = new Square(4);
+            // calling the method
+            double result = sh.area();
+            Console.Write("{0}", result);
         }
     }
 }

@@ -21,6 +21,16 @@ namespace Assignment2{
             BabyBirds.feed();
             BabyBirds.fly();
             BabyBirds.flyWithMom();
+
+            //Hierarchical Inheritance
+            Panda panda = new Panda();
+            panda.feed();
+
+            BabyPanda babyPanda = new BabyPanda();
+            babyPanda.eating();
+
+            BabyPanda2 babyPanda2 = new BabyPanda2();
+            babyPanda2.sleeping();
         }
     }
 }

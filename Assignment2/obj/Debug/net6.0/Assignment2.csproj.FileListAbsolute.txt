@@ -1,0 +1,15 @@
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\bin\Debug\net6.0\Assignment2.exe
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\bin\Debug\net6.0\Assignment2.dll
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\bin\Debug\net6.0\ref\Assignment2.dll
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.dll
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+E:\Code\CSharpAnd.NET\CSharp_Assignment\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
